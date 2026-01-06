@@ -29,3 +29,28 @@ METHODS:
   Note: The model currently progresses the time in increments until a definied stopping point. Further versions of the model will detect steady state conditions and automatically stop.
 
 
+KEY ASSUMPTIONS: 
+- One-dimensional axial flow (no radial gradients)
+- Constant thermophysical properties
+- No axial conduction
+- No pressure drop
+- No momentum change
+- Single-phase liquid flow
+- Constant heat transfer coefficient
+The intention of these assumptions are to isolate core thermal hydraulic behvaiors.
+
+
+RESULTS:
+This model can produce:
+- Axial temperature profiles along the pipe
+- Transient temperature evolution over time
+- identification of peak temperature nodes
+
+PROJECT MOTIVATION:
+This project was developed to:
+- Strengthen understanding of thermal hydraulic system modeling
+- Gain experience with time integration
+- Build intuition for reactor flow and heat transfer behavior
+- Create a model that can be expanded to include more advanced analyses
+
+Future developments for this project could include temperature depenedent properties, flow transients, and steady-state detection.
