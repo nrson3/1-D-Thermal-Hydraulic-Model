@@ -37,6 +37,7 @@ KEY ASSUMPTIONS:
 - No momentum change
 - Single-phase liquid flow
 - Constant heat transfer coefficient
+
 The intention of these assumptions are to isolate core thermal hydraulic behvaiors.
 
 
