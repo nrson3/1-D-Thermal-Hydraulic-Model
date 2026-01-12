@@ -54,4 +54,4 @@ This project was developed to:
 - Build intuition for reactor flow and heat transfer behavior
 - Create a model that can be expanded to include more advanced analyses
 
-Future developments for this project could include temperature depenedent properties, flow transients, and steady-state detection.
+Future developments for this project could include temperature dependent properties, flow transients, and steady-state detection.
